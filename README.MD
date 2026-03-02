@@ -72,7 +72,7 @@ AI_Study_Buddy/
 
 ### 🏠 Home Page
 
-![Home](Screenshots\HomePage.png)
+![Home](Screenshots/explanation.png)
 
 ### 📖 Topic Explanation
 
