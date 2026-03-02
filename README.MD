@@ -2,6 +2,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red)
 ![AI Powered](https://img.shields.io/badge/AI-Generative-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+
+🔗 Live Demo: https://aistudybot.streamlit.app/
 # 🚀 AI Study Buddy
 
 ### Intelligent AI-Powered Learning Assistant
@@ -209,7 +211,5 @@ GitHub: [https://github.com/yashkk-07](https://github.com/yashkk-07)
 
 This project is licensed under the MIT License.
 
----
 
-# ⭐ Professional Badges (Add at Top)
 
