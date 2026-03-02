@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red)
+![AI Powered](https://img.shields.io/badge/AI-Generative-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
 # 🚀 AI Study Buddy
 
 ### Intelligent AI-Powered Learning Assistant
@@ -209,11 +213,3 @@ This project is licensed under the MIT License.
 
 # ⭐ Professional Badges (Add at Top)
 
-Add this at the very top of README:
-
-```markdown
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red)
-![AI Powered](https://img.shields.io/badge/AI-Generative-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
-```
