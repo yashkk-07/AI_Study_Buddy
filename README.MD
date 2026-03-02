@@ -72,15 +72,15 @@ AI_Study_Buddy/
 
 ### 🏠 Home Page
 
-![Home](Screenshots/explanation.png)
+![Home](Screenshots/HomePage.png)
 
 ### 📖 Topic Explanation
 
-![Explanation](Screenshots\explanation.png)
+![Explanation](Screenshots/explanation.png)
 
 ### ❓ Quiz Generator
 
-![Quiz](Screenshots\Quiz.png)
+![Quiz](Screenshots/Quiz.png)
 
 # ⚙️ Installation Guide
 
